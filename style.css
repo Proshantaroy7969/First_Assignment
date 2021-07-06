@@ -23,7 +23,7 @@ h2{
     padding-left: 5%;
 }
 .half-width image{
-    width: 100px;
+    width: 9    0px;
     height: 50%;
 }
 .link-button{
@@ -44,8 +44,8 @@ h2{
 .mid-banner{
     background-image: url(images/shapes/7.png);
     background-repeat: no-repeat;
-    background-position: right;
-    background-size: 100%;
+    background-position: left;
+    background-size: 90%;
 }
 
 .cernter-align{
@@ -54,7 +54,7 @@ h2{
 }
 .recipie-container{
     box-shadow: 10px 10px 10px 10px lightgrey;
-    width: 25%;
+    width: 20%;
     margin-left: 3% ;
     margin-right: 3%;
     padding: 1% ;
@@ -66,14 +66,14 @@ h2{
 .online-order-banner{
     background-image: url(images/shapes/Frame\ 59.jpg);
     background-repeat: no-repeat;
-    background-position: right;
-    background-size: 100%;
+    background-position: left;
+    background-size: 90%;
 }
 
 .social-promopt{
     display: inline-flex;
-    margin-left: 10%;
-    margin-right: 20%;
+    margin-left: 5%;
+    margin-right: 10%;
     padding-left: 300px;
     padding-right: 700px;
     border-radius: 10px;
