@@ -55,8 +55,8 @@ h2{
 .recipie-container{
     box-shadow: 10px 10px 10px 10px lightgrey;
     width: 20%;
-    margin-left: 3% ;
-    margin-right: 3%;
+    margin-left: 5% ;
+    margin-right: 5%;
     padding: 1% ;
     border-radius: 30px;
 }
@@ -67,7 +67,7 @@ h2{
     background-image: url(images/shapes/Frame\ 59.jpg);
     background-repeat: no-repeat;
     background-position: left;
-    background-size: 90%;
+    background-size: 100%;
 }
 
 .social-promopt{
